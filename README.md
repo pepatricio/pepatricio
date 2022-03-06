@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on real estate, green and blue infrastructure and climate change
-- 🌱 I’m currently learning how to use github
 - 😄 Pronouns: he/him
 
 <div>
