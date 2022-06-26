@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on real estate, green and blue infrastructure and climate change
+- 🔭 I’m currently working on urban infrastructure and urban demographics
+- 🌱 I have experience in real estate, green and blue infrastructure and climate change
 - 😄 Pronouns: he/him
 
 <div>
