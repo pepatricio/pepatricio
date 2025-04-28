@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on urban infrastructure and urban demographics
-- 🌱 I have experience in real estate, green and blue infrastructure and climate change
-- 😄 Pronouns: he/him
+🌟 I'm an urban economist with over 7 years of experience in spatial data manipulation, econometrics, and urban economics.
+🚀 Passionate about transforming data into insights to create more vibrant and sustainable cities.
+💻 Proficient in Python, R, Git, and QGIS.
+🌍 Experienced consultant for the public sector and international organizations.
+📊 Specialist in analyzing land use, urban infrastructure, demographics, and real estate markets.
+📚 M.Sc. in Economics from UFMG.
+🤝 Let's collaborate to build a better urban future!
 
 <!--
 <div>
